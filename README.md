@@ -1,8 +1,8 @@
 # Belajar-Golang-Logging
 
-Materi Pembelajaran <a href="https://www.youtube.com/watch?v=mqbJ0GmSu3E&list=PL-CtdCApEFH-0i9dzMzLw6FKVrFWv3QvQ&index=16&ab_channel=ProgrammerZamanNow">Programmer Zaman Now</a>
+Link Pembelajaran <a href="https://www.youtube.com/watch?v=mqbJ0GmSu3E&list=PL-CtdCApEFH-0i9dzMzLw6FKVrFWv3QvQ&index=16&ab_channel=ProgrammerZamanNow">Programmer Zaman Now</a>
 
-Logging Library
+Link Logging Library
 
 - <a href="https://github.com/sirupsen/logrus">Logrus</a> 🚀
 - <a href="https://github.com/uber-go">Zap</a>
